@@ -1,0 +1,8 @@
+.right div{background-color: #F5F5F5;width: 700px;height:400px;margin-left: 100px;margin-top: 20px;}
+
+a{text-decoration: none;color:#B71717;}
+
+.right .middle{padding-top: 30px;}
+
+.right input{margin-left:200px;margin-top: 20px;width: 320px;height: 30px;border-radius: 3px;border:#AAAAAA solid 1px;}
+.right select{margin-left:200px;margin-top: 20px;width: 324px;height: 34px;border-radius: 3px;border:#AAAAAA solid 1px;}

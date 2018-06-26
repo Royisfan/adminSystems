@@ -1,0 +1,16 @@
+
+
+.top{background-color:#B71717;height:100px;color:white;line-height: 100px;font-weight: blod;font-size:30px;padding-left:100px; }
+
+.log{border:#999998 solid 1px;margin-left: 420px;width: 450px;height: 280px;margin-top: 70px;}
+.logAccount{width: 290px;height: 30px;border: #999998 solid 1px;margin-top: 50px;}
+.logPassword{width: 290px;height: 30px;border: #999998 solid 1px;margin-top: 30px;}
+.logSubmit{width:120px;height: 30px;margin-top: 40px;margin-left: 70px;float: left;}
+
+.register{border:#999998 solid 1px;margin-left: 420px;width: 450px;height: 400px;margin-top: 70px;c}
+.registerUsername{width: 282px;height: 30px;border: #999998 solid 1px;margin-top: 20px;}
+.registerAccount{width: 290px;height: 30px;border: #999998 solid 1px;margin-top: 40px;}
+.registerTelphone{width: 290px;height: 30px;border: #999998 solid 1px;margin-top: 20px;}
+.registerPassword{width: 290px;height: 30px;border: #999998 solid 1px;margin-top: 20px;}
+.registerConfirm{width: 265px;height: 30px;border: #999998 solid 1px;margin-top: 20px;}
+.registerSubmit{width:300px;height: 30px;margin-top: 30px;margin-left: 75px;}

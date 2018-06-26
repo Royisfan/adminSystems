@@ -1,0 +1,6 @@
+
+.right{float: left;margin-left: 200px;margin-top: 50px;line-height: 30px;text-align: center;}
+
+.right_left{float:left;border:#CCCCCC solid 1px;background-color: #E8E8E8;width: 200px;height: 30px;}
+
+.right_right{float:left;border:#CCCCCC solid 1px;width: 200px;height: 30px;}

@@ -1,0 +1,11 @@
+
+.top{background-color:#B71717;height:100px;color:white;}
+.top .left{float:left;line-height: 100px;font-weight: blod;font-size:30px;padding-left:100px; }
+.top .right{float:left;width:200px;margin-top: 70px;margin-left: 800px;}
+.top a{color: white;text-decoration: none;}
+
+.left{float: left;}
+
+.right{float:left;width: 600px;margin-left: 150px;margin-top: 50px;}
+
+.answer{background-color: #F5F5F5;padding-left: 30px;padding-top: 10px;padding-right: 30px;}
